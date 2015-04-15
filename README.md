@@ -5,10 +5,13 @@ Supported Platforms
 ===================
 
 Linux Mint 17.0 32bit - highly recommended
+
 Ubuntu 14.04 32bit    - recommended
 
 Linux Mint 17.0 64bit - Has issues with qemu
+
 Ubuntu 14.04 32bit    - Has issues with qemu
+
 
 Download Instructions
 =====================
